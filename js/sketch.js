@@ -56,50 +56,50 @@ window.onclick = function(event) {
 
 // Event listeners for buttons
 document.getElementById("openModalButton1").onclick = function() {
-  openModal("myModal1", "modalText1", "Compositional reference");
+  openModal("myModal1", "modalText1", "-");
 }
 document.getElementById("openModalButton2").onclick = function() {
-  openModal("myModal2", "modalText2", "Compositional and narrative reference");
+  openModal("myModal2", "modalText2", "-");
 }
 document.getElementById("openModalButton3").onclick = function() {
-  openModal("myModal3", "modalText3", "Content for Modal 3");
+  openModal("myModal3", "modalText3", "-");
 }
 document.getElementById("openModalButton4").onclick = function() {
-  openModal("myModal4", "modalText4", "Content for Modal 4");
+  openModal("myModal4", "modalText4", "-");
 }
 document.getElementById("openModalButton5").onclick = function() {
-  openModal("myModal5", "modalText5", "Content for Modal 5");
+  openModal("myModal5", "modalText5", "-");
 }
 document.getElementById("openModalButton6").onclick = function() {
-  openModal("myModal6", "modalText6", "Content for Modal 6");
+  openModal("myModal6", "modalText6", "-");
 }
 document.getElementById("openModalButton7").onclick = function() {
-  openModal("myModal7", "modalText7", "Compositional and narrative reference");
+  openModal("myModal7", "modalText7", "-");
 }
 document.getElementById("openModalButton8").onclick = function() {
-  openModal("myModal8", "modalText8", "Content for Modal 8");
+  openModal("myModal8", "modalText8", "-");
 }
 document.getElementById("openModalButton9").onclick = function() {
-  openModal("myModal9", "modalText9", "Content for Modal 9");
+  openModal("myModal9", "modalText9", "-");
 }
 document.getElementById("openModalButton10").onclick = function() {
-  openModal("myModal10", "modalText10", "Content for Modal 10");
+  openModal("myModal10", "modalText10", "-");
 }
 document.getElementById("openModalButton11").onclick = function() {
-  openModal("myModal11", "modalText11", "Content for Modal 11");
+  openModal("myModal11", "modalText11", "-");
 }
 document.getElementById("openModalButton12").onclick = function() {
-  openModal("myModal12", "modalText12", "Content for Modal 12");
+  openModal("myModal12", "modalText12", "-");
 }
 document.getElementById("openModalButton13").onclick = function() {
-  openModal("myModal13", "modalText13", "Conceptual Reference");
+  openModal("myModal13", "modalText13", "-");
 }
 document.getElementById("openModalButton14").onclick = function() {
-  openModal("myModal14", "modalText14", "Content for Modal 14");
+  openModal("myModal14", "modalText14", "-");
 }
 document.getElementById("openModalButton15").onclick = function() {
-  openModal("myModal15", "modalText15", "Content for Modal 15");
+  openModal("myModal15", "modalText15", "-");
 }
 document.getElementById("openModalButton16").onclick = function() {
-  openModal("myModal16", "modalText16", "Content for Modal 16");
+  openModal("myModal16", "modalText16", "-");
 }
