@@ -88,9 +88,7 @@ document.getElementById("openModalButton10").onclick = function() {
 document.getElementById("openModalButton11").onclick = function() {
   openModal("myModal11", "modalText11", "-");
 }
-document.getElementById("openModalButton12").onclick = function() {
-  openModal("myModal12", "modalText12", "-");
-}
+
 document.getElementById("openModalButton13").onclick = function() {
   openModal("myModal13", "modalText13", "-");
 }
